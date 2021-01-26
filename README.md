@@ -1,5 +1,8 @@
 # Paperless App
 
+[![Gitter](https://badges.gitter.im/paperless_app/community.svg)](https://gitter.im/paperless_app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Crowdin](https://badges.crowdin.net/paperless-app/localized.svg)](https://crowdin.com/project/paperless-app)
+
 ![Access all your scanned documents, wherever you are.](fastlane/metadata/android/en-US/images/featureGraphic.png)
 
 To use this, you need to have a Paperless server set up. See [Paperless Documentation](https://paperless-ng.readthedocs.io/en/latest/index.html#why-this-exists) for more information.
@@ -11,6 +14,7 @@ Paperless offers a powerful web interface that is difficult to use on a smartpho
 
 It provides the following functionality:
 
+-    Scan documents using smartphone camera with paper detection
 -	Securely saves your credentials so you only have to login once
 -	Full-text search
 -	Customisable order
@@ -38,6 +42,16 @@ However, I do not plan to release this app for the iOS App Store, since I do not
 - An Apple Developer Program Membership (USD99,-)
 
 If anyone else happens to have all of those and wants to take care of distributing the app there, please let me know. 
+
+## How to help?
+
+If you want to help make Paperless App better, there are multiple possibilities:
+
+*Report bugs:* We can only fix issues that we know about. Please check the issue tracker on Github and if it doesn't already exist, report it there.
+
+*Translate the App:* We depend on our community to translate this app. If you know any other language, please visit [Crowdin](https://crowdin.com/project/paperless-app) and help people who don't speak English to use this app!
+
+*Contribute code:* Pull requests are always welcome. If you need any pointers on how to do something just let us know in the chat or in a Github discussion.
 
 ## Developing
 
